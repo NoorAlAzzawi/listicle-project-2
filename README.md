@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='PASTE_YOUR_GIF_LINK_HERE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="./walkthroughnoor2.gif" title="Video Walkthrough" width="800"/>
 
 GIF created with **Kap**
 
