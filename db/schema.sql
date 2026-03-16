@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS bosses (
+  id SERIAL PRIMARY KEY,
+  name VARCHAR(100) NOT NULL,
+  title VARCHAR(100) NOT NULL,
+  image TEXT NOT NULL,
+  location VARCHAR(100) NOT NULL,
+  difficulty VARCHAR(50) NOT NULL,
+  description TEXT NOT NULL
+);
