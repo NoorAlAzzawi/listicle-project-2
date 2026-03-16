@@ -35,7 +35,7 @@ Here's a walkthrough of implemented required features:
 
 <img src="./walkthroughnoor2.gif" title="Video Walkthrough" width="800"/>
 
-GIF created with **Kap**
+GIF created with **ezgif**
 
 ## Notes
 
